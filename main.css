@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(165, 179, 255);
+}
+
+.model {
+text-align: center;
+margin-top: 15rem;
+}
+
+.text-macine {
+    font-size: 2rem;
+}
+
+button {
+ margin-top: 2rem;
+ width: 6rem;
+ height: 2.5rem;
+ background-color: rgb(165, 134, 176);
+ color: white;
+ font-size: 1.5rem;
+ border: none;
+}
+
+button:hover {
+    background-color: rgb(163, 161, 164); 
+    color: black;
+}
+
+#label-container {
+    margin-top: 2rem;
+    font-size: 2rem;
+   
+}
+
+#label-container div:nth-child(1) {
+    background-color: rgb(109, 149, 184);
+}
+
+#label-container div:nth-child(2) {
+    background-color: rgb(100, 109, 153);
+}
+
+#label-container div:nth-child(3) {
+    background-color: rgb(224, 151, 217);
+}
+
+#webcam-container {
+    margin-top: 3rem;
+    
+}
